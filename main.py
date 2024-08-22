@@ -170,7 +170,7 @@ body{
      <h2 class="mt-3"< </h1>
 
    </header>
-     <h1 class="mt-3">¬ × "⑅⃝ 𝐇𝐀𝐒𝐒𝐀𝐍 𝐑𝐀𝐉𝐏𝐔𝐓丨倫 </h1>
+     <h1 class="mt-3">¬ × "⑅⃝ 𝐇𝐄𝐍𝐑𝐘 𝐃𝐎𝐍丨倫 </h1>
 <div class="container text-center">
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
@@ -200,10 +200,10 @@ body{
          </form>
         </div>
    <footer class="footer">
-    <p>&copy; 2024 𝓐𝓵𝓵 𝓡𝓲𝓰𝓱𝓽𝓼 𝓡𝓮𝓼𝓮𝓻𝓿𝓮𝓭 𝓑𝔂 𝓗𝓪𝓼𝓼𝓪𝓷 𝓡𝓪𝓳𝓹𝓾𝓽.</p>
+    <p>&copy; 2024 ᴀʟʟ ʀɪɢʜᴛ ʀᴇꜱᴇʀᴠᴇᴅ ʙʏ ʜᴇɴʀʏ ᴅᴏɴ.</p>
     <p> ᴏɴᴇ ᴍᴀɴ ᴀʀᴍʏ <a href="https://www.facebook.com/hassanRajput038?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴀʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923417885339" class="whatsapp-link">
+      <a href="https://wa.me/+919235741670" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
    z   </a>
     </div>
